@@ -1,4 +1,3 @@
-# 
 # **Implementation of Chatbot using NLP**
 
 This project demonstrates the development and implementation of a chatbot using **Natural Language Processing (NLP)** techniques. The chatbot is designed to simulate human-like conversations, offering a seamless interaction experience. This repository serves as a comprehensive guide to building a basic chatbot using Python, showcasing the potential of NLP in creating intelligent conversational agents.
@@ -50,7 +49,7 @@ P4-Implementation-of-Chatbot-using-NLP/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Techsaksham/P4-Implementation-of-Chatbot-using-NLP
+   git clone https://github.com/deafzx/Implementation-of-Chat-Bot-using-NLP.git
    ```
 2. Install dependencies:
    ```bash
@@ -77,4 +76,4 @@ P4-Implementation-of-Chatbot-using-NLP/
 
 ## **Contributors**
 
-- [Mehul Mangal](https://github.com/Mehulmm)  
+- [Md Sameer](https://github.com/deafzx)  
