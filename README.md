@@ -19,26 +19,6 @@ This project demonstrates the development and implementation of a chatbot using 
   - **Flask (Optional):** For hosting the chatbot as a web application.  
 - **Corpus Data:** Used for training and intent classification.
 
-## **Project Structure**
-
-The project is organized as follows:
-
-```
-P4-Implementation-of-Chatbot-using-NLP/
-├── data/
-│   ├── intents.json        # Contains intents, patterns, and responses
-├── models/
-│   ├── chatbot_model.pkl   # Trained machine learning model (if applicable)
-├── scripts/
-│   ├── preprocess.py       # Preprocessing scripts for tokenization and stemming
-│   ├── train.py            # Training the chatbot model
-│   ├── chatbot.py          # Main script for running the chatbot
-├── app/
-│   ├── app.py              # Flask application (optional)
-├── README.md               # Project documentation
-```
-
-
 ## **How It Works**
 
 1. **User Input:** The user provides input in natural language.
